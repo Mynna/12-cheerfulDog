@@ -13,3 +13,12 @@ body{
     left: 35%;
     border-radius: 0px 0px 0px 120px;
 }
+.body{
+    background-color: #fdb44e;
+    height: 100px;
+    width: 180px;
+    position: relative;
+    top: 55px;
+    left: 70px;
+    border-radius: 0px 0px 0px 60px;
+}
