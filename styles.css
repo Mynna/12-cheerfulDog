@@ -87,5 +87,14 @@ body{
     position: relative;
     right: 2.5px;
     bottom: 492px;
+}
+.eye{
+    background-color: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 490px;
+    left: 50px;
     
 }
