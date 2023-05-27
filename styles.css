@@ -96,5 +96,15 @@ body{
     position: relative;
     bottom: 490px;
     left: 50px;
+
+}
+.tongue{
+    background-color: tomato;
+    height: 20px;
+    width: 8px;
+    border-radius: 10px;
+    position: relative;
+    left: 23px;
+    bottom: 470px;
     
 }
