@@ -77,5 +77,15 @@ body{
     position: relative;
     left: 75px;
     bottom: 400px;
+
+}
+.nose{
+    background-color: black;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    position: relative;
+    right: 2.5px;
+    bottom: 492px;
     
 }
