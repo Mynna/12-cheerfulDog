@@ -106,5 +106,15 @@ body{
     position: relative;
     left: 23px;
     bottom: 470px;
+    transform: rotate(45deg);
+    z-index: -1;
+    animation: move 1s infinite;
+
+}
+@keyframes move {
+    50%{
+        transform: rotate(45deg) translateY(2.5px);
+
+    }
     
 }
