@@ -22,3 +22,29 @@ body{
     left: 70px;
     border-radius: 0px 0px 0px 60px;
 }
+.leg1,.leg2,.leg3,.leg4{
+    background-color: #fdb44e;
+    height: 50px;
+    width: 18px;
+    position: relative;
+
+}
+.leg1{
+    left: 100px;
+    top: 48px;
+}
+.leg2{
+    left: 130px;
+    bottom: 2px;
+}
+.leg3{
+    left: 205px;
+    bottom: 50px;
+    background-color: rgba(151,89,2,0.5);
+    z-index: -1;
+}
+.leg4{
+    left: 232px;
+    bottom: 100px;
+    
+}
