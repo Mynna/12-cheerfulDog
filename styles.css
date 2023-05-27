@@ -65,8 +65,17 @@ body{
 @keyframes wag {
     50%{
         transform: rotate(10deg);
-        
-    }
 
+    }
+ 
+}
+.ear{
+    background-color: rgba(151, 89, 2, 0.8);
+    width: 45px;
+    height: 90px;
+    border-radius: 0px 0px 100px 100px;
+    position: relative;
+    left: 75px;
+    bottom: 400px;
     
 }
